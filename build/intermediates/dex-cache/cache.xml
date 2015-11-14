@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/leezaricci/dev/src/moodme/curiousme/CuriousMe/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c3f82b1a4517f1d62a014512b9b3fd06af2987e8">
+        <dex dex="/Users/leezaricci/dev/src/moodme/curiousme/CuriousMe/build/intermediates/pre-dexed/debug/cardboard-9e843b0d7ad30737e776d6cd48ee3a8379c6540b.jar" />
+    </item>
+    <item
+        jar="/Users/leezaricci/dev/src/moodme/curiousme/CuriousMe/libs/libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="/Users/leezaricci/dev/src/moodme/curiousme/CuriousMe/build/intermediates/pre-dexed/debug/libprotobuf-java-2.6-nano-439ac9f0e8c1448c0c4102f1be1a6e4c2c6992f1.jar" />
+    </item>
+
+</items>
